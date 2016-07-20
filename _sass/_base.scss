@@ -123,6 +123,10 @@ a {
    flex-direction: column; 
 }
 
+.about-me img {
+    margin: 20px 0;  
+}
+
 .truncate {
     overflow: hidden;
     text-overflow: ellipsis;
