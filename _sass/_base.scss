@@ -117,6 +117,12 @@ a {
     overflow: auto;
 }
 
+.about-me {
+   display: flex;
+   align-items: center;
+   flex-direction: column; 
+}
+
 .truncate {
     overflow: hidden;
     text-overflow: ellipsis;
